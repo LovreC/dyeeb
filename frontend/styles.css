@@ -1,0 +1,18 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    background-color: #0078d7;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#chat-container {
+    max-width: 600px;
+    margin: 20px auto;
+}
